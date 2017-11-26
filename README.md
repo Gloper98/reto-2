@@ -19,3 +19,9 @@
 2. **Utilidades.**
 3. **Secciones(Barra de menu).**
 
+![web-page](assets/images/web-page.png)
+
+4. **Nombre de la pagina.**
+5. **Navegacion local.**
+
+
