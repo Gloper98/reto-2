@@ -24,4 +24,8 @@
 4. **Nombre de la pagina.**
 5. **Navegacion local.**
 
+![footer](assets/images/footer.png)
+
+6. **Navegacion de pie de pagina**
+
 
