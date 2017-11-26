@@ -16,4 +16,6 @@
 ![nav](assets/images/breather-nav-2.png)
 
 **1. Identificacion del sitio.**
+**2. Utilidades.**
+**3. Secciones(Barra de menu).**
 
