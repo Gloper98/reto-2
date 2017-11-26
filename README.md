@@ -31,4 +31,6 @@
 ## GitHub
 >[GitHub](https://github.com/) GitHub es un servicio de alojamiento de repositorio de control de versiones Git basado en la web. Se usa principalmente para código de computadora. Ofrece todas las funciones de control de versiones distribuidas y administración de código fuente (SCM) de Git, además de agregar sus propias características. Proporciona control de acceso y varias funciones de colaboración, como seguimiento de errores, solicitudes de funciones, gestión de tareas y wikis para cada proyecto.
 
+![GitHub](assets/images/github.png)
+
 
