@@ -29,7 +29,7 @@
 6. **Navegacion de pie de pagina**
 
 ## GitHub
->[GitHub](https://github.com/) GitHub es un servicio de alojamiento de repositorio de control de versiones Git basado en la web. Se usa principalmente para código de computadora. Ofrece todas las funciones de control de versiones distribuidas y administración de código fuente (SCM) de Git, además de agregar sus propias características. Proporciona control de acceso y varias funciones de colaboración, como seguimiento de errores, solicitudes de funciones, gestión de tareas y wikis para cada proyecto.
+>[GitHub](https://github.com/) es un servicio de alojamiento de repositorio de control de versiones Git basado en la web. Se usa principalmente para código de computadora. Ofrece todas las funciones de control de versiones distribuidas y administración de código fuente (SCM) de Git, además de agregar sus propias características. Proporciona control de acceso y varias funciones de colaboración, como seguimiento de errores, solicitudes de funciones, gestión de tareas y wikis para cada proyecto.
 
 ![GitHub](assets/images/github.png)
 ![GitHub Acount](assets/images/github-1.png)
@@ -51,6 +51,23 @@
 ![footer-github](assets/images/footer-github.png)
 
 6. **Navegacion de pie de pagina**
+
+## Medium
+>[Medium](https://medium.com/) es una nueva red social que nació hace tiempo y funcionaba de manera cerrada. Si bien todos podían entrar y leer los contenidos que estaban en el sitio, solo algunos podían escribir allí. Sea como sea, eso cambió y ahora ya está abierto para todos.
+
+![Medium](assets/images/medium.png)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![elementos de navegacion](assets/images/elementos-de-navegacion.png)
+![nav-medium](assets/images/medium-nav.png)
+
+1. **Identificacion del sitio.**
+2. **Secciones(Barra de menu).**
+3. **Utilidades.**
+
+
+
+
 
 
 
