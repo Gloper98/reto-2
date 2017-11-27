@@ -48,6 +48,10 @@
 4. **Nombre de la pagina.**
 5. **Navegacion local.**
 
+![footer-github](assets/images/footer-github.png)
+
+6. **Navegacion de pie de pagina**
+
 
 
 
