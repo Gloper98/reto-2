@@ -62,8 +62,10 @@
 ![nav-medium](assets/images/medium-nav.png)
 
 1. **Identificacion del sitio.**
-2. **Secciones(Barra de menu).**
-3. **Utilidades.**
+2. **Utilidades**
+3. **Secciones(Barra de menu).**
+
+![news](assets/images/medium-news.png)
 
 
 
