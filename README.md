@@ -40,8 +40,14 @@
 
 
 1. **Identificacion del sitio.**
-2. **Utilidades.**
-3. **Secciones(Barra de menu).**
+2. **Secciones(Barra de menu).**
+3. **Utilidades.**
+
+![web-page](assets/images/body-github.png)
+
+4. **Nombre de la pagina.**
+5. **Navegacion local.**
+
 
 
 
