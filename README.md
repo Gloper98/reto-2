@@ -69,9 +69,11 @@
 ![Medium](assets/images/medium.png)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+
 ![elementos de navegacion](assets/images/elementos-de-navegacion.png)
 ![nav-medium](assets/images/medium-nav.png)
 
+### Navegacion Global
 1. **Identificacion del sitio.**
 2. **Utilidades**
 3. **Secciones(Barra de menu).**
@@ -87,6 +89,14 @@
 ![footer-medium](assets/images/medium-footer.png)
 
 6. **Navegacion de pie de pagina**
+
+![element-medium](assets/images/element-medium.png)
+
+7. **Navegacion Facetada.**
+
+![medium-element-dos](assets/images/medium-element-2.png)
+
+8. **Navegacion Contextual.**
 
 
 
