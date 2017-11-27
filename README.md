@@ -66,6 +66,10 @@
 3. **Secciones(Barra de menu).**
 
 ![news](assets/images/medium-news.png)
+![article](assets/images/medium-body-2.png)
+
+4. **Nombre de la pagina.**
+5. **Navegacion local.**
 
 
 
